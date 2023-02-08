@@ -71,7 +71,7 @@ body {
   border-radius: 6px;
 }
 .inicio .grid img {
-  width: 400px;
+  width: 350px;
   height: 250px;
   filter: blur(1px);
   transition: all 0.7s ease-in-out;
